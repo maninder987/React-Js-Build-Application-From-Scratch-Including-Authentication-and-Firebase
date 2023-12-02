@@ -1,3 +1,10 @@
+![React Js Build Application From Scratch Including Authentication and Firebase](https://github.com/maninder987/React-Js-Build-Application-From-Scratch-Including-Authentication-and-Firebase/assets/45554842/31eb193e-21d6-46cf-8786-3e3b99c8eacb)
+
+
+Check out Full Guide Here: https://youtu.be/Vt-Ow9kDaBc
+Our Website: https://zarx.biz
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
